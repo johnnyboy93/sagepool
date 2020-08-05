@@ -61,19 +61,20 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Welcome to <span className="text-color-primary">SAGEPOOL</span>
+              Welcome to the <span className="text-color-primary">Millenial Sage </span>
+              site
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                A simple way to stake in the new financial dawn
+                A simple way to define elegance and eloquence
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="">
-                    Please delegate to us!
+                    About me
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="">
-                    Pointless button!
+                    Cyber Pool
                     </Button>
                 </ButtonGroup>
               </div>

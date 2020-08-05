@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'This site is still under construction',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Market yourself',
+    paragraph: 'This site exists to show the cumulative skills I have aquired throughout my years as an IT professional. I will list all my opinions, thoughts, projects and creative ideas on here. My hope is that you are inspired to create your own.'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    CyberPool
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Project 1 - Cardano Stakepool: CyberPool. As a project to improve my linux skills I started my own cardano stake pool. If you enjoy crypto currencies as much as I do, you've probable heard of this one.
                     </p>
                 </div>
               </div>
