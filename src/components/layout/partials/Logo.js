@@ -2,7 +2,7 @@ import React from 'react';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Image from '../../elements/Image';
-import OrbitalResonance from './AnimatedSVG'
+// import OrbitalResonance from './AnimatedSVG'
 
 const Logo = ({
   className,

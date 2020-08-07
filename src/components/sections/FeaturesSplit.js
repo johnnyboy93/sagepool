@@ -72,7 +72,7 @@ const FeaturesSplit = ({
                   Pool Info
                   </h3>
                 <p className="m-0">
-                  Check it out on <a target="_blank" href="https://adapools.org/pool/581f191fbda6c996fc6734b4bfae0b6c274c84660570da8074aeeec5">ADApools.org</a>
+                  Check it out on <a target="_blank" rel="noopener noreferrer" href="https://adapools.org/pool/581f191fbda6c996fc6734b4bfae0b6c274c84660570da8074aeeec5">ADApools.org</a>
                   <br />
                   Honestly this project pushed my coding skills to its limit. Thankfully this community is full of helpful and brilliant people.
                 </p>
