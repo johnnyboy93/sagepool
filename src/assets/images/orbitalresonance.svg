@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 650 650">
+    <g id="orbits">
+        <circle id="ganymedeorbit" cx="325" cy="325" r="321" />
+        <circle id="europaorbit" cx="325" cy="325" r="201" />
+        <circle id="ioorbit" cx="325" cy="325" r="126" />
+    </g>
+    <g id="lineGroup" transform="rotate(-90 325 325)"></g>
+    <circle id="ganymede" cx="325" cy="4" r="4" />
+    <circle id="europa" cx="325" cy="526" r="4" />
+    <circle id="io" cx="325" cy="199" r="4" />
+    <circle id="jupiter" cx="325" cy="325" r="12" />
+</svg>

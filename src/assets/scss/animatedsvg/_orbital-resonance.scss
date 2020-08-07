@@ -1,0 +1,26 @@
+body { 
+    margin: 0;
+    background: #000;
+  }
+  svg { 
+    display: block; 
+    margin: 0 auto;
+    width: 50%;
+  }
+  #orbits circle {
+    fill: none;
+    stroke: #223;
+    stroke-width: 1px;
+  }
+  #ganymede {
+    fill: #fff;
+  }
+  #europa {
+    fill: #fff;
+  }
+  #io {
+    fill: #fff;
+  }
+  #jupiter {
+    fill: #fff;
+  }

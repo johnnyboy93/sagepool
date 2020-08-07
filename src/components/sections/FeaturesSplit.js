@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Cyber Pool information',
-    paragraph: 'This project started late in 2020. This journey started as a simple project and honestly, I did not realise the magnitude of the task I took on. But through A LOT of trial, error, ambition and absolute refusal to give up, I managed to pull through.'
+    paragraph: 'This project started August in 2020. This journey started as a simple project and honestly, I did not realise the magnitude of the task I took on. But through A LOT of trial, error, ambition and absolute refusal to give up, I managed to pull through.'
   };
 
   return (
@@ -72,11 +72,10 @@ const FeaturesSplit = ({
                   Pool Info
                   </h3>
                 <p className="m-0">
-                  Ticker         : CYBER
-                  Pledge         : 50K ADA
-                  Pool ID        :
-                  Pledge Address :
-                 </p>
+                  Check it out on <a target="_blank" href="https://adapools.org/pool/581f191fbda6c996fc6734b4bfae0b6c274c84660570da8074aeeec5">ADApools.org</a>
+                  <br />
+                  Honestly this project pushed my coding skills to its limit. Thankfully this community is full of helpful and brilliant people.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -85,7 +84,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/pledge.PNG')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -110,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/network-uptime.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -136,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/research-header.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -162,7 +161,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/secure.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />

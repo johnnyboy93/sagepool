@@ -2,6 +2,7 @@ import React from 'react';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Image from '../../elements/Image';
+import OrbitalResonance from './AnimatedSVG'
 
 const Logo = ({
   className,
@@ -23,8 +24,9 @@ const Logo = ({
           <Image
             src={require('./../../../assets/images/logo.svg')}
             alt="Open"
-            width={32}
-            height={32} />
+            width={52}
+            height={52} />
+
         </Link>
       </h1>
     </div>
